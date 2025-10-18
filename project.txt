@@ -1,0 +1,6 @@
+my-website/ (This is your project folder)
+├── index.html
+├── css/
+│ └── style.css
+└── images/
+└── my-photo.jpg
